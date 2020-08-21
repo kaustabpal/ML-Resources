@@ -1,7 +1,7 @@
 # ML Resources
 Maintened by the class of SMAI 2020 @IIIT Hyderabad.
-
-If you are not a contributor and want to add a resource to the list, please raise an issue. ```Issues>Add new resource> (fill details)```
+ 
+If you are not a contributor and want to add a resource to the list, please raise an issue. ```Issues > Suggest new resource > (fill details)```
 
 # Linear Algebra
 
