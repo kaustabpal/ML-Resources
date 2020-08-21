@@ -1,6 +1,6 @@
 # ML Resources
 Maintened by the class of SMAI 2020 @IIIT Hyderabad.
-If you are not a contributor and want to add a resource to the list, raise an issue.
+If you are not a contributor and want to add a resource to the list, please raise an issue.
 # Linear Algebra
 
 1. [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
