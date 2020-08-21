@@ -1,5 +1,5 @@
 ---
-name: Add new resource
+name: Suggest new resource
 about: Suggest a new machine learning resource
 title: ''
 labels: ''
