@@ -17,6 +17,8 @@ If you are not a contributor and want to add a resource to the list, please rais
 2. [Harvard Probability Course](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 3. [Introduction to Probability, Statistics and Random Processes](https://www.probabilitycourse.com/)
 4. [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
+5. [Covarience Matrix](https://www.youtube.com/watch?v=locZabK4Als)
+6. [Properties of covarience matrix](http://www.robots.ox.ac.uk/~davidc/pubs/tt2015_dac1.pdf)
 
 # Machine Learning
 
