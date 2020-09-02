@@ -1,4 +1,4 @@
-# ML Resources
+# SMAI-2020 Resources
 Maintened by the class of *Statistical Methods in AI* 2020 @**[IIIT Hyderabad](https://www.iiit.ac.in/)**.
  
 If you are not a contributor and want to add a resource to the list, please raise an issue. 
