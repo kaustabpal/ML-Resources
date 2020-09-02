@@ -3,6 +3,11 @@
 If you are not a contributor and want to add a resource to the list, please raise an issue. 
 
 ```Issues > Suggest new resource > (fill details)```
+# Simple implementations of algorithms
+
+> **Environment setup:** Inside the codes dir, there is a `environment.yml` file. Run the command `conda env create -f environment.yml` to create the environment. Then run the command `conda activate smai` to activate the environment.
+
+1. [K-Nearest Neighbors](/CODES/Knn.ipynb)
 
 # Linear Algebra
 
