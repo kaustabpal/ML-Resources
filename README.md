@@ -30,3 +30,4 @@ If you are not a contributor and want to add a resource to the list, please rais
 2. [Andrew NG Stanford ML course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 3. [Caltech ML course](https://www.youtube.com/playlist?list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp)
 4. [3blue1brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+4. [Principal Component Analysis blog post by Subham Dokania](http://shubham1810.github.io/blog/pca/2018/06/28/pca/)
