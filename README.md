@@ -31,3 +31,6 @@ If you are not a contributor and want to add a resource to the list, please rais
 3. [Caltech ML course](https://www.youtube.com/playlist?list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp)
 4. [3blue1brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 4. [Principal Component Analysis blog post by Subham Dokania](http://shubham1810.github.io/blog/pca/2018/06/28/pca/)
+5. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](https://cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/)
+6. [A tutorial on Principal Components Analysis](https://ourarchive.otago.ac.nz/bitstream/handle/10523/7534/OUCS-2002-12.pdf?sequence=1&isAllowed=y)
+7. [PCA by prof. Victor Lavrenko](https://www.youtube.com/playlist?list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM)
